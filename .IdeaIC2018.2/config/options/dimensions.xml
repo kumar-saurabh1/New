@@ -1,0 +1,23 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="120" />
+    <location key="new project wizard.0.0.1366.768" x="329" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="190" />
+    <location key="#Project_Structure.0.0.1366.768" x="163" y="0" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1366.768" x="410" y="55" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="433" y="173" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="262" y="20" />
+    <location key="SettingsEditor.0.0.1366.768" x="171" y="10" />
+    <location key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog.0.0.1366.768" x="444" y="296" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="20" />
+    <location key="GitCloneDialog.0.0.1366.768" x="413" y="291" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="412" y="153" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="7" y="618" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="147" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="147" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="147" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="147" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="116" />
+  </component>
+</application>

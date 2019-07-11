@@ -1,0 +1,68 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/CucumberBasics" />
+        <option value="E:/SDT_29nov/SDT" />
+        <option value="E:/SDT_29nov" />
+        <option value="$USER_HOME$/IdeaProjects/demotest" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/CucumberBasics" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects/CucumberBasics" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/CucumberBasics">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543876439959" />
+              <option name="buildTimestamp" value="1539686153610" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/demotest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542225608210" />
+              <option name="buildTimestamp" value="1539686150341" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SDT_29nov">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543863654555" />
+              <option name="buildTimestamp" value="1539686156367" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SDT_29nov/SDT">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543876437656" />
+              <option name="buildTimestamp" value="1539686153610" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="E:/SDT_29nov" />
+  </component>
+</application>

@@ -1,0 +1,45 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.macys</groupId>
+	<artifactId>ParentParent</artifactId>
+	<packaging>pom</packaging>
+	<version>2.6.0</version>
+	
+	<name>${artifactId}</name>
+	<distributionManagement>
+		<repository>
+			<id>MacysNexus</id>
+			<layout>default</layout>
+			<name>Macys Nexus Deploy Repo</name>
+			<url>${releaseDistributionLocaltion}</url>
+		</repository>
+		<snapshotRepository>
+			<id>MacysNexus</id>
+			<layout>default</layout>
+			<uniqueVersion>false</uniqueVersion>
+			<name>Macys Nexus Deploy Repo</name>
+			<url>${snapshotDistributionLocaltion}</url>
+		</snapshotRepository>
+		<site>
+			<id>ReportsLocation</id>
+			<name>Report Locations</name>
+			<url>${siteDistributionLocaltion}</url>
+		</site>
+	</distributionManagement>
+	<properties>
+		<!-- Version Control server Properties -->
+		<vcs.type>scm:svn:http://</vcs.type>
+		<vcs.server>vcs/</vcs.server>
+		<vcs.project>wds/</vcs.project>
+		<vcs.group>project/parent/</vcs.group>
+	</properties>
+	<scm>
+		<developerConnection>${vcs.type}${vcs.server}${vcs.project}${vcs.group}${branch}${artifactId}</developerConnection>
+		<connection>${vcs.type}${vcs.server}${vcs.project}${vcs.group}${branch}${artifactId}</connection>
+		<!--url>http://${vcs.server}viewvc/${vcs.project}${vcs.group}${branch}${artifactId}</url-->
+	</scm>
+	<modules>
+	  <module>MacysParent</module>
+	</modules>
+</project>

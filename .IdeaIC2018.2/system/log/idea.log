@@ -1,0 +1,13 @@
+2018-12-04 04:04:02,667 [12754678]  ERROR - api.util.objectTree.ObjectNode - IntelliJ IDEA 2018.2.5  Build #IC-182.4892.20 
+2018-12-04 04:04:02,667 [12754678]  ERROR - api.util.objectTree.ObjectNode - JDK: 1.8.0_152-release 
+2018-12-04 04:04:02,667 [12754678]  ERROR - api.util.objectTree.ObjectNode - VM: OpenJDK 64-Bit Server VM 
+2018-12-04 04:04:02,667 [12754678]  ERROR - api.util.objectTree.ObjectNode - Vendor: JetBrains s.r.o 
+2018-12-04 04:04:02,667 [12754678]  ERROR - api.util.objectTree.ObjectNode - OS: Windows 10 
+2018-12-04 04:04:02,667 [12754678]  ERROR - api.util.objectTree.ObjectNode - Last Action: RunClass 
+2018-12-04 04:04:02,667 [12754678]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 76 auto-detected files
+Elapsed time on auto-detect: 130 ms 
+2018-12-04 04:04:02,683 [12754694]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-12-04 04:04:02,683 [12754694]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-12-04 04:04:02,730 [12754741]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-12-04 04:04:02,730 [12754741]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-12-04 04:04:02,730 [12754741]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

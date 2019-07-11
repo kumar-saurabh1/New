@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 01 00:05:13 IST 2018
+http\://artifacts.devops.fds.com/public-snapshots/.error=Could not transfer artifact commons-collections\:commons-collections\:jar\:3.2.1 from/to macysSnapshots (http\://artifacts.devops.fds.com/public-snapshots)\: C\:\\Users\\Admin\\.m2\\repository\\commons-collections\\commons-collections\\3.2.1\\commons-collections-3.2.1.jar.part.lock (Access is denied)
+@default-macysSnapshots-http\://artifacts.devops.fds.com/public-snapshots/.lastUpdated=1543601853973
+http\://artifacts.devops.fds.com/public/.lastUpdated=1543602913489

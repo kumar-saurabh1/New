@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 01 00:53:21 IST 2018
+jsr305-2.0.1.jar>central=
+jsr305-2.0.1.pom>central=
+jsr305-2.0.1.pom>MacysInternalSnapshots=
+jsr305-2.0.1.jar>MacysInternalSnapshots=
+jsr305-2.0.1.jar>macysSnapshots=
+jsr305-2.0.1.pom>macysSnapshots=

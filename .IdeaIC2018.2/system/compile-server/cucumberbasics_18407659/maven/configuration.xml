@@ -1,0 +1,67 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="CucumberBasics">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>groupId</groupId>
+            <artifactId>CucumberBasics</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>C:/Users/Admin/IdeaProjects/CucumberBasics</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogQWRtaW4NCkNyZWF0ZWQtQnk6IEludGVsbGlKIElERUENCkJ1aWxkLUpkazogMS44LjBfMTkxDQoNCg==</manifest>
+        <classpath>cucumber-java-1.2.5.jar cucumber-core-1.2.5.jar cucumber-html-0.2.3.jar cucumber-jvm-deps-1.0.5.jar gherkin-2.12.2.jar selenium-java-3.141.59.jar selenium-api-3.141.59.jar selenium-chrome-driver-3.141.59.jar selenium-edge-driver-3.141.59.jar selenium-firefox-driver-3.141.59.jar selenium-ie-driver-3.141.59.jar selenium-opera-driver-3.141.59.jar selenium-remote-driver-3.141.59.jar selenium-safari-driver-3.141.59.jar selenium-support-3.141.59.jar byte-buddy-1.8.15.jar commons-exec-1.3.jar guava-25.0-jre.jar jsr305-1.3.9.jar checker-compat-qual-2.0.0.jar error_prone_annotations-2.1.3.jar j2objc-annotations-1.1.jar animal-sniffer-annotations-1.14.jar okhttp-3.11.0.jar okio-1.14.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="CucumberBasics" />
+          <entry key="build.directory" value="C:\Users\Admin\IdeaProjects\CucumberBasics\target" />
+          <entry key="build.finalName" value="CucumberBasics-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="C:\Users\Admin\IdeaProjects\CucumberBasics\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="C:\Users\Admin\IdeaProjects\CucumberBasics\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="C:\Users\Admin\IdeaProjects\CucumberBasics\src\main\java" />
+          <entry key="build.testOutputDirectory" value="C:\Users\Admin\IdeaProjects\CucumberBasics\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="C:\Users\Admin\IdeaProjects\CucumberBasics\src\test\java" />
+          <entry key="groupId" value="groupId" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="pomFile" value="C:\Users\Admin\IdeaProjects\CucumberBasics\pom.xml" />
+          <entry key="reporting.outputDirectory" value="C:\Users\Admin\IdeaProjects\CucumberBasics\target\site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_191/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_191&quot;" />
+          <entry key="settings.localRepository" value="C:\Users\Admin\.m2\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>C:/Users/Admin/IdeaProjects/CucumberBasics/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>C:/Users/Admin/IdeaProjects/CucumberBasics/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

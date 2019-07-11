@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\compiler.xml" timestamp="1542226712195" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__com_google_code_findbugs_jsr305_1_3_9.xml" timestamp="1542273768575" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" timestamp="1542273768788" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__com_google_guava_guava_25_0_jre.xml" timestamp="1542273768906" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__com_google_j2objc_j2objc_annotations_1_1.xml" timestamp="1542273768978" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" timestamp="1542273769046" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__com_squareup_okio_okio_1_14_0.xml" timestamp="1542273769114" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__info_cukes_cucumber_core_1_2_5.xml" timestamp="1542227163394" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__info_cukes_cucumber_html_0_2_3.xml" timestamp="1542227163500" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__info_cukes_cucumber_java_1_2_5.xml" timestamp="1542227163529" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" timestamp="1542227163560" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__info_cukes_gherkin_2_12_2.xml" timestamp="1542227163599" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1542273827620" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__net_bytebuddy_byte_buddy_1_8_15.xml" timestamp="1542273769280" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_apache_commons_commons_exec_1_3.xml" timestamp="1542273769328" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" timestamp="1542273769384" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" timestamp="1542273769435" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1542273827668" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" timestamp="1542273769498" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" timestamp="1542273769602" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" timestamp="1542273769647" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" timestamp="1542273769699" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" timestamp="1542273769747" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" timestamp="1542273769791" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" timestamp="1542273769843" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" timestamp="1542273769897" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" timestamp="1542273769954" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" timestamp="1542273770051" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\misc.xml" timestamp="1542226636407" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\modules.xml" timestamp="1542225623958" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\project-template.xml" timestamp="1542225580972" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\uiDesigner.xml" timestamp="1542233269287" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\vcs.xml" timestamp="1543598718494" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\.idea\workspace.xml" timestamp="1543876440144" />
+    <file path="C:\Users\Admin\IdeaProjects\CucumberBasics\CucumberBasics.iml" timestamp="1542273827542" />
+  </project-files>
+</conversion>
+

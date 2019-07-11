@@ -1,0 +1,646 @@
+2018-11-14 12:12:35,994 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 12:12:35,995 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 12:12:36,061 [     67]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 12:12:36,454 [    460]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 440 ms
+2018-11-14 12:12:36,629 [    635]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 12:12:36,871 [    877]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 242 ms
+2018-11-14 12:12:36,871 [    877]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-11-14 12:12:36,940 [    946]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 12:12:37,096 [   1102]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-11-14 12:12:37,099 [   1105]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-14 12:12:37,105 [   1111]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-14 12:12:37,105 [   1111]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 49876075
+2018-11-14 12:12:37,112 [   1118]   INFO - s.index.CompilerReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-11-14 12:12:37,204 [   1210]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-11-14 12:12:37,460 [   1466]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics
+2018-11-14 12:12:39,847 [   3853]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 12:12:39,906 [   3912]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2273 ms, 1 sources processed (2273ms per file)
+2018-11-14 12:12:39,908 [   3914]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [CucumberBasics]
+2018-11-14 12:12:41,604 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 12:12:41,605 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 12:12:41,708 [    104]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 12:12:42,192 [    588]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 558 ms
+2018-11-14 12:12:42,212 [    608]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 12:12:42,243 [    639]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 12:12:42,464 [    860]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 221 ms
+2018-11-14 12:12:42,464 [    860]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-11-14 12:12:42,535 [    931]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 12:12:42,659 [   1055]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1056 ms
+2018-11-14 12:12:42,743 [   1139]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-14 12:35:29,449 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 12:35:29,450 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 12:35:29,582 [    133]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 12:35:30,033 [    584]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 535 ms
+2018-11-14 12:35:30,272 [    823]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 12:35:30,937 [   1488]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 665 ms
+2018-11-14 12:35:30,937 [   1488]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 12:35:31,222 [   1773]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 12:35:33,454 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 12:35:33,455 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 12:35:33,753 [    299]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 12:35:35,088 [   1634]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1585 ms
+2018-11-14 12:35:35,133 [   1679]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 12:35:35,221 [   1767]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 12:35:35,972 [   2518]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 751 ms
+2018-11-14 12:35:35,973 [   2519]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 12:35:36,157 [   2703]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 12:35:36,485 [   3031]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3033 ms
+2018-11-14 12:35:36,634 [   3180]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-14 13:50:32,346 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 13:50:32,347 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 13:50:32,424 [     78]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 13:50:32,904 [    558]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 535 ms
+2018-11-14 13:50:33,094 [    748]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 13:50:33,434 [   1088]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 340 ms
+2018-11-14 13:50:33,435 [   1089]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 13:50:33,600 [   1254]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 13:50:33,734 [   1388]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-14 13:50:33,738 [   1392]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-14 13:50:33,746 [   1400]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-14 13:50:33,746 [   1400]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 284061b5
+2018-11-14 13:50:33,846 [   1500]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-11-14 13:50:34,115 [   1769]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-14 13:50:34,185 [   1839]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics
+2018-11-14 13:50:34,847 [   2501]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-14 13:50:34,883 [   2537]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 13:50:34,922 [   2576]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics (tests)
+2018-11-14 13:50:35,021 [   2675]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-14 13:50:35,053 [   2707]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 763 ms, 2 sources processed (381ms per file)
+2018-11-14 13:50:35,055 [   2709]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [CucumberBasics]
+2018-11-14 13:50:36,947 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 13:50:36,948 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 13:50:37,057 [    110]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 13:50:37,578 [    631]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 595 ms
+2018-11-14 13:50:37,593 [    646]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 13:50:37,625 [    678]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 13:50:37,978 [   1031]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 353 ms
+2018-11-14 13:50:37,978 [   1031]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 13:50:38,117 [   1170]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 13:50:38,262 [   1315]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1316 ms
+2018-11-14 13:50:38,327 [   1380]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-14 14:13:42,131 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 14:13:42,133 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 14:13:42,293 [    162]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 14:13:42,670 [    539]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 483 ms
+2018-11-14 14:13:42,781 [    650]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 14:13:43,091 [    960]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 310 ms
+2018-11-14 14:13:43,091 [    960]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 14:13:43,191 [   1060]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 14:13:43,315 [   1184]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-14 14:13:43,316 [   1185]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-14 14:13:43,325 [   1194]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-14 14:13:43,325 [   1194]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started cb9df0d1
+2018-11-14 14:13:43,404 [   1273]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-11-14 14:13:43,506 [   1375]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 14:13:43,667 [   1536]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-14 14:13:43,689 [   1558]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics (tests)
+2018-11-14 14:13:44,305 [   2174]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-14 14:13:44,373 [   2242]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 616 ms, 1 sources processed (616ms per file)
+2018-11-14 14:13:44,374 [   2243]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [CucumberBasics]
+2018-11-14 14:13:45,527 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 14:13:45,528 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 14:13:45,613 [     86]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 14:13:45,977 [    450]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 422 ms
+2018-11-14 14:13:45,992 [    465]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 14:13:46,014 [    487]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 14:13:46,273 [    746]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 259 ms
+2018-11-14 14:13:46,274 [    747]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 14:13:46,396 [    869]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 14:13:46,540 [   1013]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1014 ms
+2018-11-14 14:14:24,426 [  38899]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-11-14 14:14:25,554 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 14:14:25,554 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 14:14:25,643 [     90]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 14:14:26,014 [    461]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 434 ms
+2018-11-14 14:14:26,034 [    481]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 14:14:26,066 [    513]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 14:14:26,358 [    805]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 292 ms
+2018-11-14 14:14:26,358 [    805]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 14:14:26,483 [    930]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 14:14:26,630 [   1077]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1078 ms
+2018-11-14 14:15:26,460 [  60907]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-11-14 14:15:27,505 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 14:15:27,506 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 14:15:27,593 [     88]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 14:15:27,966 [    461]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 431 ms
+2018-11-14 14:15:27,981 [    476]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 14:15:28,005 [    500]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 14:15:28,361 [    856]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 356 ms
+2018-11-14 14:15:28,361 [    856]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 14:15:28,472 [    967]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 14:15:28,615 [   1110]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1111 ms
+2018-11-14 14:27:34,236 [ 726731]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-14 14:27:34,237 [ 726732]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-14 14:27:34,249 [ 726744]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-14 14:27:34,249 [ 726744]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 8bda1211
+2018-11-14 14:27:34,394 [ 726889]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-11-14 14:27:34,554 [ 727049]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics (tests)
+2018-11-14 14:27:35,248 [ 727743]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-14 14:27:35,299 [ 727794]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 68 ms, 0 sources processed
+2018-11-14 14:27:35,299 [ 727794]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 670 ms, 1 sources processed (670ms per file)
+2018-11-14 14:27:35,300 [ 727795]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [CucumberBasics]
+2018-11-14 14:27:36,509 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 14:27:36,509 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 14:27:36,595 [     86]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 14:27:37,011 [    502]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 474 ms
+2018-11-14 14:27:37,050 [    541]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 14:27:37,098 [    589]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 14:27:37,554 [   1045]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 457 ms
+2018-11-14 14:27:37,554 [   1045]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 14:27:37,750 [   1241]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 14:27:37,965 [   1456]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1458 ms
+2018-11-14 14:28:30,307 [  53798]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-11-14 14:28:31,508 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 14:28:31,509 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 14:28:31,595 [     87]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 14:28:31,949 [    441]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 416 ms
+2018-11-14 14:28:31,965 [    457]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 14:28:31,989 [    481]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 14:28:32,404 [    896]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 415 ms
+2018-11-14 14:28:32,404 [    896]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 14:28:32,528 [   1020]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 14:28:32,694 [   1186]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1188 ms
+2018-11-14 14:29:53,798 [  82290]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-11-14 14:29:54,910 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 14:29:54,911 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 14:29:55,003 [     93]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 14:29:55,383 [    473]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 449 ms
+2018-11-14 14:29:55,397 [    487]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 14:29:55,420 [    510]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 14:29:55,695 [    785]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 275 ms
+2018-11-14 14:29:55,695 [    785]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 14:29:55,815 [    905]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 14:29:55,956 [   1046]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1048 ms
+2018-11-14 14:30:23,700 [  28790]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-11-14 14:30:24,937 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 14:30:24,937 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 14:30:25,028 [     91]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 14:30:25,442 [    505]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 474 ms
+2018-11-14 14:30:25,458 [    521]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 14:30:25,516 [    579]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 14:30:25,935 [    998]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 419 ms
+2018-11-14 14:30:25,935 [    998]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 14:30:26,045 [   1108]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 14:30:26,224 [   1287]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1289 ms
+2018-11-14 14:33:37,189 [ 192252]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-14 14:33:37,192 [ 192255]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-14 14:33:37,199 [ 192262]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-14 14:33:37,199 [ 192262]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ee7108c7
+2018-11-14 14:33:37,291 [ 192354]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-11-14 14:33:37,442 [ 192505]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics (tests)
+2018-11-14 14:33:38,050 [ 193113]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-14 14:33:38,101 [ 193164]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 71 ms, 0 sources processed
+2018-11-14 14:33:38,101 [ 193164]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 585 ms, 1 sources processed (585ms per file)
+2018-11-14 14:33:38,102 [ 193165]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [CucumberBasics]
+2018-11-14 14:33:38,997 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 14:33:38,998 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 14:33:39,126 [    129]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 14:33:39,521 [    524]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 493 ms
+2018-11-14 14:33:39,536 [    539]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 14:33:39,563 [    566]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 14:33:39,849 [    852]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 286 ms
+2018-11-14 14:33:39,849 [    852]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 14:33:39,967 [    970]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 14:33:40,114 [   1117]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1118 ms
+2018-11-14 14:34:41,120 [  62123]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-11-14 14:34:42,267 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 14:34:42,268 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 14:34:42,354 [     87]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 14:34:42,709 [    442]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 417 ms
+2018-11-14 14:34:42,729 [    462]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 14:34:42,760 [    493]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 14:34:43,132 [    865]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 372 ms
+2018-11-14 14:34:43,132 [    865]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 14:34:43,311 [   1044]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 14:34:43,589 [   1322]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1323 ms
+2018-11-14 15:02:29,250 [1666983]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-14 15:02:29,253 [1666986]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-14 15:02:29,259 [1666992]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-14 15:02:29,259 [1666992]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 1764ee75
+2018-11-14 15:02:29,468 [1667201]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2018-11-14 15:02:29,651 [1667384]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics (tests)
+2018-11-14 15:02:30,474 [1668207]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-14 15:02:30,544 [1668277]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 754 ms, 1 sources processed (754ms per file)
+2018-11-14 15:02:30,545 [1668278]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [CucumberBasics]
+2018-11-14 15:02:31,815 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 15:02:31,816 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 15:02:31,921 [    106]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 15:02:32,340 [    525]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 494 ms
+2018-11-14 15:02:32,355 [    540]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 15:02:32,380 [    565]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 15:02:32,660 [    845]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 280 ms
+2018-11-14 15:02:32,660 [    845]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 15:02:32,809 [    994]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 15:02:32,978 [   1163]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1165 ms
+2018-11-14 15:08:24,287 [ 352472]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-14 15:08:24,288 [ 352473]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-14 15:08:24,294 [ 352479]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-14 15:08:24,294 [ 352479]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 6108bef1
+2018-11-14 15:08:24,380 [ 352565]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-11-14 15:08:24,541 [ 352726]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics (tests)
+2018-11-14 15:08:25,279 [ 353464]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-14 15:08:25,322 [ 353507]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 74 ms, 0 sources processed
+2018-11-14 15:08:25,322 [ 353507]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 720 ms, 1 sources processed (720ms per file)
+2018-11-14 15:08:25,323 [ 353508]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [CucumberBasics]
+2018-11-14 15:08:26,585 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-14 15:08:26,586 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-14 15:08:26,670 [     85]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-14 15:08:27,031 [    446]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 420 ms
+2018-11-14 15:08:27,048 [    463]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-14 15:08:27,067 [    482]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-14 15:08:27,481 [    896]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 414 ms
+2018-11-14 15:08:27,482 [    897]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-14 15:08:27,626 [   1041]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-14 15:08:27,778 [   1193]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1194 ms
+2018-11-14 15:40:32,955 [1926370]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-15 14:24:38,812 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 14:24:38,847 [     35]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 14:24:39,342 [    530]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 14:24:40,806 [   1994]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1869 ms
+2018-11-15 14:24:41,646 [   2834]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 14:24:42,818 [   4006]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1172 ms
+2018-11-15 14:24:42,818 [   4006]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-15 14:24:43,572 [   4760]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 14:24:44,621 [   5809]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 14:24:46,984 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 14:24:46,985 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 14:24:47,241 [    257]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 14:24:48,012 [   1028]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 937 ms
+2018-11-15 14:24:48,057 [   1073]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 14:24:48,120 [   1136]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 14:24:48,772 [   1788]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 652 ms
+2018-11-15 14:24:48,772 [   1788]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-15 14:24:49,004 [   2020]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 14:24:49,369 [   2385]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2388 ms
+2018-11-15 14:26:16,134 [  89150]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-15 14:26:17,011 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 14:26:17,011 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 14:26:17,090 [     79]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 14:26:17,408 [    397]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 374 ms
+2018-11-15 14:26:17,528 [    517]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 14:26:17,806 [    795]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 278 ms
+2018-11-15 14:26:17,806 [    795]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-15 14:26:17,937 [    926]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 14:26:18,102 [   1091]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-15 14:26:18,112 [   1101]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-15 14:26:18,130 [   1119]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-15 14:26:18,130 [   1119]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 91d33ee1
+2018-11-15 14:26:18,308 [   1297]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 7 ms
+2018-11-15 14:26:18,439 [   1428]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 14:26:18,644 [   1633]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 83 ms, 0 sources processed
+2018-11-15 14:26:19,590 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 14:26:19,590 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 14:26:19,714 [    124]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 14:26:20,343 [    753]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 728 ms
+2018-11-15 14:26:20,369 [    779]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 14:26:20,397 [    807]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 14:26:20,691 [   1101]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 294 ms
+2018-11-15 14:26:20,691 [   1101]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-15 14:26:20,835 [   1245]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 14:26:21,010 [   1420]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1421 ms
+2018-11-15 14:28:29,033 [ 129443]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-11-15 14:28:30,264 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 14:28:30,265 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 14:28:30,351 [     87]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 14:28:30,748 [    484]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 458 ms
+2018-11-15 14:28:30,793 [    529]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 14:28:30,849 [    585]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 14:28:31,334 [   1070]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 485 ms
+2018-11-15 14:28:31,334 [   1070]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-15 14:28:31,450 [   1186]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 14:28:31,678 [   1414]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1415 ms
+2018-11-15 14:48:02,031 [1171767]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-11-15 14:48:03,417 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 14:48:03,418 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 14:48:03,517 [    100]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 14:48:03,945 [    528]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 498 ms
+2018-11-15 14:48:03,962 [    545]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 14:48:03,982 [    565]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 14:48:04,549 [   1132]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 567 ms
+2018-11-15 14:48:04,549 [   1132]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 5 libraries
+2018-11-15 14:48:04,693 [   1276]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 14:48:04,960 [   1543]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1544 ms
+2018-11-15 14:51:52,004 [ 228587]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-15 15:12:17,348 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 15:12:17,349 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 15:12:17,432 [     84]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 15:12:17,841 [    493]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 466 ms
+2018-11-15 15:12:18,026 [    678]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 15:12:18,742 [   1394]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 716 ms
+2018-11-15 15:12:18,742 [   1394]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-15 15:12:18,904 [   1556]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 15:12:19,125 [   1777]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-15 15:12:19,131 [   1783]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-15 15:12:19,141 [   1793]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-15 15:12:19,141 [   1793]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started d5814051
+2018-11-15 15:12:19,260 [   1912]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-11-15 15:12:19,512 [   2164]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 15:12:19,821 [   2473]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics
+2018-11-15 15:12:22,710 [   5362]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-15 15:12:22,938 [   5590]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics (tests)
+2018-11-15 15:12:23,366 [   6018]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-15 15:12:23,412 [   6064]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 3091 ms, 2 sources processed (1545ms per file)
+2018-11-15 15:12:23,412 [   6064]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 90 ms, 0 sources processed
+2018-11-15 15:12:23,412 [   6064]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 199 ms, 0 sources processed
+2018-11-15 15:12:23,414 [   6066]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [CucumberBasics]
+2018-11-15 15:12:25,135 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 15:12:25,136 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 15:12:25,243 [    108]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 15:12:25,683 [    548]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 511 ms
+2018-11-15 15:12:25,701 [    566]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 15:12:25,727 [    592]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 15:12:26,100 [    965]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 373 ms
+2018-11-15 15:12:26,100 [    965]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-15 15:12:26,254 [   1119]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 15:12:26,445 [   1310]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1312 ms
+2018-11-15 15:39:08,008 [1602873]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-11-15 15:39:09,147 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 15:39:09,148 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 15:39:09,238 [     91]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 15:39:09,618 [    471]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 435 ms
+2018-11-15 15:39:09,634 [    487]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 15:39:09,660 [    513]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 15:39:10,147 [   1000]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 487 ms
+2018-11-15 15:39:10,147 [   1000]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-15 15:39:10,266 [   1119]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 15:39:10,425 [   1278]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1279 ms
+2018-11-15 16:32:40,841 [3211694]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-11-15 16:32:42,184 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 16:32:42,223 [     39]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 16:32:42,333 [    149]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 16:32:42,763 [    579]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 503 ms
+2018-11-15 16:32:42,780 [    596]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 16:32:42,811 [    627]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 16:32:43,281 [   1097]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 470 ms
+2018-11-15 16:32:43,281 [   1097]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-15 16:32:43,413 [   1229]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 16:32:43,617 [   1433]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1435 ms
+2018-11-15 21:21:03,765 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 21:21:03,796 [     31]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 21:21:03,865 [    100]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 21:21:04,250 [    485]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 434 ms
+2018-11-15 21:21:04,767 [   1002]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 21:21:05,293 [   1528]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 526 ms
+2018-11-15 21:21:05,293 [   1528]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-15 21:21:05,393 [   1628]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 21:21:05,678 [   1913]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 21:21:06,955 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 21:21:06,963 [      8]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 21:21:07,039 [     84]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 21:21:07,402 [    447]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 417 ms
+2018-11-15 21:21:07,424 [    469]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 21:21:07,456 [    501]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 21:21:07,756 [    801]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 300 ms
+2018-11-15 21:21:07,756 [    801]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-15 21:21:07,888 [    933]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 21:21:08,073 [   1118]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1118 ms
+2018-11-15 21:27:05,977 [ 359022]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-15 21:27:06,594 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 21:27:06,594 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 21:27:06,663 [     69]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 21:27:06,948 [    354]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 332 ms
+2018-11-15 21:27:07,049 [    455]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 21:27:07,312 [    718]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 263 ms
+2018-11-15 21:27:07,312 [    718]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-15 21:27:07,396 [    802]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 21:27:07,512 [    918]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-15 21:27:07,566 [    972]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-15 21:27:07,566 [    972]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-15 21:27:07,566 [    972]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ed576d60
+2018-11-15 21:27:07,697 [   1103]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 0 ms
+2018-11-15 21:27:07,832 [   1238]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 21:27:08,023 [   1429]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 95 ms, 0 sources processed
+2018-11-15 21:27:08,816 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-15 21:27:08,816 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-15 21:27:08,901 [     85]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-15 21:27:09,434 [    618]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 602 ms
+2018-11-15 21:27:09,471 [    655]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-15 21:27:09,518 [    702]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-15 21:27:09,835 [   1019]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 317 ms
+2018-11-15 21:27:09,835 [   1019]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-15 21:27:09,919 [   1103]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-15 21:27:10,073 [   1257]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1257 ms
+2018-11-16 00:56:35,056 [12566240]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-16 00:56:35,057 [12566241]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-16 00:56:35,083 [12566267]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-16 00:56:35,083 [12566267]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 464742b
+2018-11-16 00:56:35,220 [12566404]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2018-11-16 00:56:35,510 [12566694]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics (tests)
+2018-11-16 00:56:36,606 [12567790]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-16 00:56:36,747 [12567931]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 967 ms, 1 sources processed (967ms per file)
+2018-11-16 00:56:36,747 [12567931]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 112 ms, 0 sources processed
+2018-11-16 00:56:36,747 [12567931]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 61 ms, 0 sources processed
+2018-11-16 00:56:36,747 [12567931]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Groovy stub generator' builder took 68 ms, 0 sources processed
+2018-11-16 00:56:36,748 [12567932]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [CucumberBasics]
+2018-11-16 00:56:38,781 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-16 00:56:38,782 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-16 00:56:38,877 [     96]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-16 00:56:39,247 [    466]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 440 ms
+2018-11-16 00:56:39,269 [    488]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-16 00:56:39,304 [    523]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-16 00:56:39,650 [    869]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 346 ms
+2018-11-16 00:56:39,650 [    869]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-16 00:56:39,778 [    997]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-16 00:56:39,946 [   1165]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1166 ms
+2018-11-16 01:06:11,688 [ 572907]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-16 21:58:45,071 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-16 21:58:45,140 [     69]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-16 21:58:45,403 [    332]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-16 21:58:46,813 [   1742]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1639 ms
+2018-11-16 21:58:48,009 [   2938]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-16 21:58:49,066 [   3995]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1058 ms
+2018-11-16 21:58:49,066 [   3995]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-16 21:58:49,452 [   4381]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-16 21:58:50,559 [   5488]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-16 21:58:51,651 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-16 21:58:51,663 [     12]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-16 21:58:51,735 [     84]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-16 21:58:52,505 [    854]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 820 ms
+2018-11-16 21:58:52,548 [    897]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-16 21:58:52,587 [    936]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-16 21:58:52,981 [   1330]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 394 ms
+2018-11-16 21:58:52,981 [   1330]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-16 21:58:53,099 [   1448]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-16 21:58:53,389 [   1738]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1739 ms
+2018-11-16 21:59:04,599 [  12948]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-29 01:25:11,097 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-29 01:25:11,123 [     26]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-29 01:25:11,300 [    203]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-29 01:25:12,347 [   1250]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1181 ms
+2018-11-29 01:25:12,757 [   1660]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-29 01:25:13,911 [   2814]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1154 ms
+2018-11-29 01:25:13,911 [   2814]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-29 01:25:14,370 [   3273]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-29 01:25:15,039 [   3942]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-29 01:25:17,775 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-29 01:25:17,776 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-29 01:25:17,884 [    110]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-29 01:25:18,431 [    657]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 610 ms
+2018-11-29 01:25:18,467 [    693]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-29 01:25:18,523 [    749]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-29 01:25:19,103 [   1329]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 580 ms
+2018-11-29 01:25:19,103 [   1329]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-29 01:25:19,336 [   1562]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-29 01:25:19,773 [   1999]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2001 ms
+2018-11-30 22:16:27,774 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-30 22:16:27,790 [     16]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-30 22:16:27,905 [    131]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-30 22:16:28,553 [    779]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 732 ms
+2018-11-30 22:16:28,865 [   1091]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-30 22:16:29,325 [   1551]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 460 ms
+2018-11-30 22:16:29,325 [   1551]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-30 22:16:29,526 [   1752]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-30 22:16:29,804 [   2030]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-30 22:16:31,307 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-30 22:16:31,307 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-30 22:16:31,438 [    131]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-30 22:16:31,979 [    672]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 629 ms
+2018-11-30 22:16:32,015 [    708]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-30 22:16:32,094 [    787]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-30 22:16:32,709 [   1402]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 615 ms
+2018-11-30 22:16:32,709 [   1402]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-30 22:16:32,991 [   1684]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-30 22:16:33,589 [   2282]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2290 ms
+2018-11-30 22:19:39,842 [ 188535]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-11-30 22:19:39,852 [ 188545]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-11-30 22:19:39,863 [ 188556]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-11-30 22:19:39,863 [ 188556]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started f5db7655
+2018-11-30 22:19:40,241 [ 188934]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-11-30 22:19:40,821 [ 189514]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBasics (tests)
+2018-11-30 22:19:42,069 [ 190762]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-11-30 22:19:42,138 [ 190831]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 286 ms, 0 sources processed
+2018-11-30 22:19:42,138 [ 190831]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1100 ms, 1 sources processed (1100ms per file)
+2018-11-30 22:19:42,139 [ 190832]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [CucumberBasics]
+2018-11-30 22:19:43,240 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-30 22:19:43,241 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-30 22:19:43,357 [    117]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-30 22:19:43,659 [    419]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 379 ms
+2018-11-30 22:19:43,673 [    433]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-30 22:19:43,694 [    454]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-30 22:19:43,958 [    718]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 264 ms
+2018-11-30 22:19:43,958 [    718]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-30 22:19:44,057 [    817]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-30 22:19:44,220 [    980]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 982 ms
+2018-11-30 23:04:13,469 [2670229]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-11-30 23:07:22,097 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-30 23:07:22,099 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-30 23:07:22,315 [    218]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-30 23:07:23,159 [   1062]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1008 ms
+2018-11-30 23:07:23,614 [   1517]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-30 23:07:24,383 [   2286]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 769 ms
+2018-11-30 23:07:24,383 [   2286]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-30 23:07:24,765 [   2668]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-30 23:07:25,298 [   3201]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-30 23:07:28,797 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-11-30 23:07:28,799 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-11-30 23:07:28,974 [    177]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-11-30 23:07:29,490 [    693]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 647 ms
+2018-11-30 23:07:29,513 [    716]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-11-30 23:07:29,544 [    747]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-11-30 23:07:30,090 [   1293]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 546 ms
+2018-11-30 23:07:30,091 [   1294]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-11-30 23:07:30,292 [   1495]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-11-30 23:07:30,544 [   1747]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1749 ms
+2018-11-30 23:35:53,988 [1705191]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-03 21:00:24,744 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-03 21:00:24,751 [      7]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-12-03 21:00:24,862 [    118]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-12-03 21:00:25,300 [    556]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 520 ms
+2018-12-03 21:00:25,521 [    777]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-12-03 21:00:25,959 [   1215]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 438 ms
+2018-12-03 21:00:25,959 [   1215]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-12-03 21:00:26,083 [   1339]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-03 21:00:26,260 [   1516]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-12-03 21:00:27,488 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-03 21:00:27,489 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-12-03 21:00:27,562 [     74]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-12-03 21:00:27,955 [    467]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 445 ms
+2018-12-03 21:00:27,969 [    481]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-12-03 21:00:27,991 [    503]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-12-03 21:00:28,272 [    784]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 281 ms
+2018-12-03 21:00:28,272 [    784]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-12-03 21:00:28,374 [    886]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-03 21:00:28,519 [   1031]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1033 ms
+2018-12-04 00:20:55,238 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-04 00:20:55,240 [      3]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/jre64/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-12-04 00:20:55,672 [    435]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-12-04 00:20:56,813 [   1576]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1457 ms
+2018-12-04 00:20:57,371 [   2134]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/SDT_29nov, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-12-04 00:20:58,288 [   3051]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 917 ms
+2018-12-04 00:20:58,288 [   3051]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-04 00:20:58,580 [   3343]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-04 00:20:58,932 [   3695]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-12-04 00:20:58,945 [   3708]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-12-04 00:20:58,958 [   3721]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-04 00:20:58,958 [   3721]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 5b20e3b
+2018-12-04 00:20:58,985 [   3748]   INFO - s.index.CompilerReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-12-04 00:20:59,273 [   4036]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2018-12-04 00:20:59,915 [   4678]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 130 ms, 0 sources processed
+2018-12-04 00:21:01,733 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-04 00:21:01,733 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/jre64/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-12-04 00:21:01,918 [    185]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-12-04 00:21:02,368 [    635]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 575 ms
+2018-12-04 00:21:02,492 [    759]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-12-04 00:21:02,570 [    837]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/SDT_29nov, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-12-04 00:21:02,846 [   1113]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 276 ms
+2018-12-04 00:21:02,846 [   1113]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-12-04 00:21:02,958 [   1225]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-04 00:21:03,308 [   1575]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1577 ms
+2018-12-04 00:30:54,827 [ 593094]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-04 00:31:02,298 [12634810]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-04 00:32:21,775 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-04 00:32:21,775 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-12-04 00:32:21,921 [    147]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-12-04 00:32:22,626 [    852]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 811 ms
+2018-12-04 00:32:23,080 [   1306]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-12-04 00:32:23,945 [   2171]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 865 ms
+2018-12-04 00:32:23,945 [   2171]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-12-04 00:32:24,294 [   2520]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-04 00:32:24,752 [   2978]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-12-04 00:32:26,217 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-04 00:32:26,219 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-12-04 00:32:26,396 [    179]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-12-04 00:32:27,147 [    930]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 872 ms
+2018-12-04 00:32:27,173 [    956]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-12-04 00:32:27,211 [    994]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/Admin/IdeaProjects/CucumberBasics, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-12-04 00:32:27,912 [   1695]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 701 ms
+2018-12-04 00:32:27,912 [   1695]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 27 libraries
+2018-12-04 00:32:28,190 [   1973]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-04 00:32:28,794 [   2577]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2579 ms
+2018-12-04 01:26:35,610 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-04 01:26:35,612 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-12-04 01:26:35,705 [     95]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-12-04 01:26:36,118 [    508]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 475 ms
+2018-12-04 01:26:36,244 [    634]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/SDT_29nov/SDT, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-12-04 01:26:38,016 [   2406]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1772 ms
+2018-12-04 01:26:38,016 [   2406]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 148 modules, 430 libraries
+2018-12-04 01:26:38,378 [   2768]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-04 01:26:38,623 [   3013]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:false parallel compilation:false
+2018-12-04 01:26:38,626 [   3016]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-12-04 01:26:38,632 [   3022]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-12-04 01:26:38,632 [   3022]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b9f4c1ed
+2018-12-04 01:26:38,639 [   3029]   INFO - s.index.CompilerReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-12-04 01:26:38,807 [   3197]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 168 ms
+2018-12-04 01:26:46,418 [  10808]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-12-04 01:26:47,819 [  12209]   INFO - s.incremental.java.JavaBuilder - Compiling 114 java files; module: sdt-shared-resources
+2018-12-04 01:26:56,660 [  21050]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-04 01:26:57,548 [  21938]   INFO - s.incremental.java.JavaBuilder - Compiling 8 java files; module: sdt-Architecture-Experimentation
+2018-12-04 01:26:58,951 [  23341]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-12-04 01:26:59,073 [  23463]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 5585 ms, 769 sources processed (7ms per file)
+2018-12-04 01:26:59,073 [  23463]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 10117 ms, 122 sources processed (82ms per file)
+2018-12-04 01:26:59,074 [  23464]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 576 ms, 0 sources processed
+2018-12-04 01:26:59,075 [  23465]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'IntelliLang Pattern Validator' builder took 200 ms, 0 sources processed
+2018-12-04 01:26:59,075 [  23465]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 449 ms, 0 sources processed
+2018-12-04 01:26:59,075 [  23465]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_191 was used to compile [sdt-shared-resources, sdt-Architecture-Experimentation]
+2018-12-04 01:27:01,401 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-12-04 01:27:01,402 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_191/lib/tools.jar;C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2018.2.5/lib/optimizedFileManager.jar
+2018-12-04 01:27:01,503 [    102]   INFO - til.internal.PlatformDependent - Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system instability.
+2018-12-04 01:27:02,466 [   1065]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1034 ms
+2018-12-04 01:27:02,498 [   1097]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2018-12-04 01:27:02,557 [   1156]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/SDT_29nov/SDT, global options path = C:/Users/Admin/.IdeaIC2018.2/config/options
+2018-12-04 01:27:06,061 [   4660]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 3504 ms
+2018-12-04 01:27:06,061 [   4660]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 148 modules, 430 libraries
+2018-12-04 01:27:06,570 [   5169]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-12-04 01:27:06,934 [   5533]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5535 ms
+2018-12-04 01:27:07,066 [   5665]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-12-04 04:04:00,260 [12694043]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
